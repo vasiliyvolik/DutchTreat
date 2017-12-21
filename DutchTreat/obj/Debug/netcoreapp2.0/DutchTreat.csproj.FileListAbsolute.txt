@@ -8,4 +8,3 @@ C:\Code\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.0\DutchTreat.AssemblyInfoInp
 C:\Code\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.0\DutchTreat.AssemblyInfo.cs
 C:\Code\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.0\DutchTreat.dll
 C:\Code\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.0\DutchTreat.pdb
-C:\Code\DutchTreat\DutchTreat\obj\Debug\netcoreapp2.0\DutchTreat.csprojResolveAssemblyReference.cache
