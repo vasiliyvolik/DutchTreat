@@ -25,10 +25,10 @@ namespace DutchTreat
   //              app.UseDeveloperExceptionPage();
   //          }
 
-            app.Run(async (context) =>
-            {
-                await context.Response.WriteAsync("<html><body><h1>Hello World!</h1></body></h1>");
-            });
+ //           app.Run(async (context) =>
+ //           {
+ //               await context.Response.WriteAsync("<html><body><h1>Hello World!</h1></body></h1>");
+ //           });
         }
     }
 }
