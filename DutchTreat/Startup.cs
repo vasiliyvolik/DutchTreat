@@ -29,6 +29,7 @@ namespace DutchTreat
             //           {
             //               await context.Response.WriteAsync("<html><body><h1>Hello World!</h1></body></h1>");
             //           });
+            app.UseDefaultFiles();
             app.UseStaticFiles();
         }
     }
