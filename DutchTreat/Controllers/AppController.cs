@@ -10,6 +10,8 @@ namespace DutchTreat.Controllers
     {
         public IActionResult Index()
         {
+            //throw new InvalidOperationException("Bad things happend");
+
             return View();
         }
     }
