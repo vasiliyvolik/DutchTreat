@@ -30,6 +30,9 @@ namespace DutchTreat
             });
             services.AddTransient<IMailService, NullMailService>();
             services.AddTransient<DutchSeeder>();
+
+            services.AddScoped<IDutchRepository, DutchRepository>();
+
             services.AddMvc();
         }
 
